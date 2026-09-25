@@ -130,6 +130,7 @@ Software Engineer roles  ·  2027 batch
 
 ---
 
+<table align="right">
   <tr>
     <td height="55"></td>
   </tr>
