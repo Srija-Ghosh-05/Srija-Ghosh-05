@@ -14,7 +14,7 @@
 
 ---
 
-### 📖 &nbsp;About Me
+## 📖 &nbsp;About Me
 
 Hi, I'm **Srija Ghosh** — a final-year B.Tech Computer Science student from Kolkata, India, specializing in Java Backend Development.
 
@@ -28,7 +28,7 @@ When I'm not writing code, I'm reading about history, listening to music, or wat
 
 ---
 
-### 💼 &nbsp;Open To
+## 💼 &nbsp;Open To
 
 ```
 Java Backend Developer roles  ·  Remote or Kolkata based  ·  2027 batch
@@ -38,7 +38,7 @@ Java Backend Developer roles  ·  Remote or Kolkata based  ·  2027 batch
 
 ---
 
-### 🔨 &nbsp;Currently Building
+## 🔨 &nbsp;Currently Building
 
 - 🗂️ &nbsp;**Student Management REST API** — expanding features, improving architecture
 
@@ -46,7 +46,7 @@ Java Backend Developer roles  ·  Remote or Kolkata based  ·  2027 batch
 
 ---
 
-### 🌱 &nbsp;Currently Learning
+## 🌱 &nbsp;Currently Learning
 
 <div align="center">
 
@@ -61,7 +61,7 @@ Java Backend Developer roles  ·  Remote or Kolkata based  ·  2027 batch
 
 ---
 
-### 🛠️ &nbsp;Tech Stack
+## 🛠️ &nbsp;Tech Stack
 
 **Languages**
 
@@ -118,7 +118,7 @@ Java Backend Developer roles  ·  Remote or Kolkata based  ·  2027 batch
 
 ---
 
-### 🎯 &nbsp;Current Goals
+## 🎯 &nbsp;Current Goals
 
 - 📌 &nbsp;Deepen my understanding of Core Java and Spring Boot internals
 - 📌 &nbsp;Build and ship meaningful backend projects
@@ -130,12 +130,9 @@ Java Backend Developer roles  ·  Remote or Kolkata based  ·  2027 batch
 
 ---
 
-<!-- Side by side: Interests + Connect | Anime GIF -->
-<table>
-<tr>
-<td valign="top" width="60%">
+<img align="right" width="260" src="./assets/anime.gif" alt="Srija's anime character"/>
 
-### 🌙 &nbsp;Beyond the Code
+## 🌙 &nbsp;Beyond the Code
 
 Some things that make me, me —
 
@@ -148,7 +145,7 @@ Some things that make me, me —
 
 <br/>
 
-### 📫 &nbsp;Connect with Me
+## 📫 &nbsp;Connect with Me
 
 I'm always open to meaningful conversations — about tech, ideas, or anything in between.
 
@@ -156,16 +153,7 @@ I'm always open to meaningful conversations — about tech, ideas, or anything i
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:srijaghosh.2005.va@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Srija-Ghosh-05)
 
-</td>
-<td valign="top" align="center" width="40%">
-
-<img src="./assets/anime.gif" alt="Srija's anime character — curious by nature, building by choice." width="280"/>
-
-</td>
-</tr>
-</table>
-
-<br/>
+<br clear="right"/>
 
 ---
 
