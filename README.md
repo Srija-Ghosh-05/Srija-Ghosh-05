@@ -130,6 +130,7 @@ Java Backend Developer roles  ·  Remote or Kolkata based  ·  2027 batch
 
 ---
 
+<br/><br/><br/><br/>
 <img align="right" width="220" src="./assets/anime.gif" alt="Srija's anime character"/>
 
 ## 🌙 &nbsp;Beyond the Code
@@ -143,7 +144,7 @@ Some things that make me, me —
 🗺️ &nbsp;Exploring different languages  
 📖 &nbsp;Comics and graphic novels  
 
-<br/>
+<br/><br/><br/>
 
 ## 📫 &nbsp;Connect with Me
 
