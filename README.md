@@ -31,7 +31,7 @@ When I'm not writing code, I'm reading about history, listening to music, or wat
 ## 💼 &nbsp;Open To
 
 ```
-Java Backend Developer roles  ·  Remote or Kolkata based  ·  2027 batch
+Software Engineer roles  ·  2027 batch
 ```
 
 <br/>
@@ -130,8 +130,15 @@ Java Backend Developer roles  ·  Remote or Kolkata based  ·  2027 batch
 
 ---
 
-<br/><br/><br/><br/>
-<img align="right" width="220" src="./assets/anime.gif" alt="Srija's anime character"/>
+  <tr>
+    <td height="55"></td>
+  </tr>
+  <tr>
+    <td>
+      <img width="220" src="./assets/anime.gif" alt="Srija's anime character"/>
+    </td>
+  </tr>
+</table>
 
 ## 🌙 &nbsp;Beyond the Code
 
@@ -142,9 +149,9 @@ Some things that make me, me —
 🎵 &nbsp;Music  
 🎌 &nbsp;Anime and manga  
 🗺️ &nbsp;Exploring different languages  
-📖 &nbsp;Comics and graphic novels  
+📖 &nbsp;Comics and graphic novels 
 
-<br/><br/><br/>
+<br/>
 
 ## 📫 &nbsp;Connect with Me
 
