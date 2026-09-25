@@ -130,16 +130,7 @@ Software Engineer roles  ·  2027 batch
 
 ---
 
-<table align="right">
-  <tr>
-    <td height="55"></td>
-  </tr>
-  <tr>
-    <td>
-      <img width="220" src="./assets/anime.gif" alt="Srija's anime character"/>
-    </td>
-  </tr>
-</table>
+<img align="right" width="220" vspace="55" src="./assets/anime.gif" alt="Srija's anime character"/>
 
 ## 🌙 &nbsp;Beyond the Code
 
