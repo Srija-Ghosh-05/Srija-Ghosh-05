@@ -145,7 +145,7 @@ Some things that make me, me —
 🗺️ &nbsp;Exploring different languages  
 📖 &nbsp;Comics and graphic novels 
 
-<br/><br/>
+<br/><br/><br/>
 
 ## 📫 &nbsp;Connect with Me
 
